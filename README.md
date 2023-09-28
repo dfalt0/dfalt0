@@ -1,4 +1,4 @@
-### h :)
+### 🩹 h :)
 
 <!--
 **dfalt0/dfalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details><summary>who</summary>
-    - Mark
-    - age: 25
+<details>
+    <summary>who</summary>
+    - irl: Mark
+    - age: 25 (Sept, '25)
     - from: US
-    - has: terrible opsec :p 
-    - contact: in profile
+    - has: terrible opsec ;)
+    - contact: profile
 </details>
 
 ### Projects:
