@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 (don't) contact me:
 <details>
   <summary>no</summary>
-  - [x] email: 'markakinshev AT gmail DOT com'
+  [x] email: 'markakinshev AT gmail DOT com'
 </details>
 
 
