@@ -1,4 +1,4 @@
-### Hi there 👋
+### h :)
 
 <!--
 **dfalt0/dfalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details><summary>who</summary>
+    - Mark
+    - age: 25
+    - from: US
+    - has: terrible opsec :p 
+    - contact: in profile
+</details>
+
+### Projects:
+- :p idk
+- nothing rn
+- something USEFUL and UNIQUE
+  
+### Current Research:
+- taking a few certificate/certification(s) courses
+- iOS security (ik super vague)
+- C++, Rust, Go
+
+### Experience:
+- [x] 1.5 years of Systems Engineer-ing experience w/ VMware & IoT services
+- [x] 2 years of junior full stack dev in PHP via WAMP
+- [x] BMS in Cybersecurity, IT, ISQA
+- [x] expired NCJIS cert
+- [x] VTSP - Network Security 2022
+- [ ] CEH - Certified Ethical Hacker (ik cringe)
+
+(don't) contact me:
+<details>
+  <summary>no</summary>
+  - [x] email: 'markakinshev AT gmail DOT com'
+</details>
+
+
