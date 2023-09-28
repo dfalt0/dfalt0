@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details><summary>Who am I?</summary>
-- irl: Mark
-- age: 25 (Sept, '25)
-- from: US
-- has: terrible opsec ;)
-- contact: profile
+  - name: mark
 </details>
 
 ### Projects:
