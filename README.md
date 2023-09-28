@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <details>
     <summary>who</summary>
-    - irl: Mark
-    - age: 25 (Sept, '25)
-    - from: US
-    - has: terrible opsec ;)
-    - contact: profile
+- irl: Mark
+- age: 25 (Sept, '25)
+- from: US
+- has: terrible opsec ;)
+- contact: profile
 </details>
 
 ### Projects:
