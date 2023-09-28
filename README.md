@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - something USEFUL and UNIQUE
   
 ### Current Research:
-- understanding this -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
-- diving through this -> https://github.com/ashishb/osx-and-ios-security-awesome
+- understanding THIS -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- diving through THAT -> https://github.com/ashishb/osx-and-ios-security-awesome
+- writing stuff on THESE -> https://github.com/dfalt0/malware1_casestudy
 - iOS security (ik super vague)
 - taking a few certificate/certification(s) courses
 - C++, Rust, Go
