@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - something USEFUL and UNIQUE
   
 ### Current Research:
-- taking a few certificate/certification(s) courses
+- understanding this -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- diving through this -> https://github.com/ashishb/osx-and-ios-security-awesome
 - iOS security (ik super vague)
+- taking a few certificate/certification(s) courses
 - C++, Rust, Go
 
 ### Experience:
