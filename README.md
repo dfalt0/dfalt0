@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details><summary>Who am I?</summary>
-  - name: mark
-</details>
-
 ### Projects:
 - :p idk
 - nothing rn
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Experience:
 - [x] 1.5 years of Systems Engineer-ing experience w/ VMware & IoT services
-- [x] 2 years of junior full stack dev in PHP via WAMP
+- [x] 2 years of junior full stack dev in PHP/Laravel via WAMP
 - [x] BMS in Cybersecurity, IT, ISQA
 - [x] expired NCJIS cert
 - [x] VTSP - Network Security 2022
@@ -40,7 +36,7 @@ Here are some ideas to get you started:
 (don't) contact me:
 <details>
   <summary>no</summary>
-  [x] email: 'markakinshev AT gmail DOT com'
+    email: 'markakinshev AT gmail DOT com'
 </details>
 
 
