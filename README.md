@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - writing stuff on THESE -> https://github.com/dfalt0/malware1_casestudy
 - iOS security (ik super vague)
 - taking a few certificate/certification(s) courses
-- C++, Rust, Go
+- Learning C, C++, Rust, Go via AdventOfCode - https://adventofcode.com/ 
 
 ### Experience:
 - [x] 1.5 years of Systems Engineer-ing experience w/ VMware & IoT services
