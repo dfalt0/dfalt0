@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 - writing stuff on THESE -> https://github.com/dfalt0/malware1_casestudy
 - iOS security (ik super vague)
 - taking a few certificate/certification(s) courses
-- Learning C, C++, Rust, Go via AdventOfCode - https://adventofcode.com/ 
+- Learning C, C++, Rust, & Go via Advent Of Code - https://adventofcode.com/ 
 
 ### Experience:
-- [x] 1.5 years of Systems Engineer-ing experience w/ VMware & IoT services
-- [x] 2 years of Junior Full-Stack Dev in PHP/Laravel via WAMP
-- [x] BMS in Cybersecurity, IT, ISQA
+- [x] 1.5 years of <b>Systems Engineer-ing</b> experience w/ VMware & IoT services
+- [x] 2 years of <b>Junior Full-Stack Dev</b> in PHP/Laravel via WAMP
+- [x] Bachelor's of Multidisciplinary Studies (Science) in Cybersecurity, IT, ISQA
 - [x] expired NCJIS cert
 - [x] VTSP - Network Security 2022
 - [ ] CEH - Certified Ethical Hacker (ik cringe)
