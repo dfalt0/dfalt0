@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Experience:
 - [x] 1.5 years of Systems Engineer-ing experience w/ VMware & IoT services
-- [x] 2 years of junior full stack dev in PHP/Laravel via WAMP
+- [x] 2 years of Junior Full-Stack Dev in PHP/Laravel via WAMP
 - [x] BMS in Cybersecurity, IT, ISQA
 - [x] expired NCJIS cert
 - [x] VTSP - Network Security 2022
