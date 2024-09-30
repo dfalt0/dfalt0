@@ -1,4 +1,4 @@
-### 🩹 h :3
+### 🩹 hi there :D
 
 https:// dfalt0./github.io <-- updating
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
   
 ### Current Research:
-- understanding THIS -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
-- diving through THAT -> https://github.com/ashishb/osx-and-ios-security-awesome
-- writing stuff on THESE -> https://github.com/dfalt0/malware1_casestudy
+- understanding mobile security -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- addtionally -> https://github.com/ashishb/osx-and-ios-security-awesome
+- casestudies on previous -> https://github.com/dfalt0/malware1_casestudy
 - iOS security (ik super vague)
 - taking a few certificate/certification(s) courses
 - Learning C, C++, Rust, & Go via Advent Of Code - https://adventofcode.com/ 
