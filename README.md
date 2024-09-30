@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Projects:
-- :p idk
-- nothing rn
-- something USEFUL and UNIQUE
   
 ### Current Research:
 - understanding THIS -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
