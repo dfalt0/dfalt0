@@ -1,6 +1,6 @@
 ### 🩹 hi there :D
 
-https://dfalt0./github.io <-- updating
+https://dfalt0.github.io <-- updating
 
 <!--
 **dfalt0/dfalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
