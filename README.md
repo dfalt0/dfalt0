@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - understanding mobile security -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
 - addtionally -> https://github.com/ashishb/osx-and-ios-security-awesome
 - casestudies on previous -> https://github.com/dfalt0/malware1_casestudy
-- iOS security (ik super vague)
-- taking a few certificate/certification(s) courses
+- iOS security 
 - Learning C, C++, Rust, & Go via Advent Of Code - https://adventofcode.com/ 
 
 ### Experience:
@@ -32,5 +31,9 @@ Here are some ideas to get you started:
 - [x] infoblox - DNS for Security Professionals
 - [x] VMware - Network Security 2022
 - [ ] CEH - Certified Ethical Hacker
+- [ ] CISSP
+- [ ] AWS-500
+- [ ] Microsoft Certified MSCE
+- [ ] Terraform 003
 
 
