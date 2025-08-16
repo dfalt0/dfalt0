@@ -1,4 +1,4 @@
-### 🩹 hi there :D
+### An Engineer's Series of Particular Events
 
 https://dfalt0.github.io <-- updating
 
