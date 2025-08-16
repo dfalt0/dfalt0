@@ -1,5 +1,6 @@
-### An Engineer's Series of Particular Events
+# An Engineer's Series of Particular Events
 
+## Obsidian + Quartz devblog
 https://dfalt0.github.io <-- updating
 
 <!--
