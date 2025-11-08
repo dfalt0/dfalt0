@@ -13,7 +13,7 @@ https://dfalt0.github.io
 ## 2025 
 
 ### business startups
-- akinsec.com - IT Compliance Platform | https://akinsec.com
+- akinsec.com - Automated Cybersecurity Platform | https://akinsec.com
 - solarsystems.tech - selling Custom PCs | https://solarsytems.tech 
 
 ### open source AI models
