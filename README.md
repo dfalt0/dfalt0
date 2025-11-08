@@ -1,4 +1,3 @@
-# An Engineer's Series of Particular Events
 ![1950cc0541ccad8953c1750b87187cab](https://github.com/user-attachments/assets/af9b781c-f6f6-4b18-a170-c4e1f5acb980)
 
 ## Obsidian + Quartz devblog
