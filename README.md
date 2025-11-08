@@ -12,12 +12,12 @@ https://dfalt0.github.io
 # Always Learning
 ## 2025 
 
-### Artificial Intelligence (AI)
-- PEFT (Parameter-Efficient Fine-Tuning) open-source hugging face models
-
-### trying to make some businesses 
+### business startups
 - akinsec.com - IT Compliance Platform | https://akinsec.com
 - solarsystems.tech - selling Custom PCs | https://solarsytems.tech 
+
+### Artificial Intelligence (AI)
+- PEFT (Parameter-Efficient Fine-Tuning) open-source hugging face models
 
 
 ## 2024 
