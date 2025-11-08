@@ -6,8 +6,9 @@
 https://dfalt0.github.io 
 
 ### Experience:
-- [x] 1.5 years <b>Systems Engineer</b> - Cloud, IT support, IaC
-- [x] 2.5 years <b>Full-Stack Dev</b> - PHP Laravel / dual role - undergrad research assistant (vehicle GPS/autonomous driving)
+- [x] <b>Cybersec Consultant</b> - Freelance | 1+ years
+- [x] <b>Systems Engineer</b> - Cloud, IT support, IaC | 1.5 years
+- [x] <b>Full-Stack Dev</b> - PHP Laravel / dual role - undergrad research assistant (vehicle GPS/autonomous driving) | 2.5 years
 
 
 # Always Learning
