@@ -16,8 +16,13 @@ https://dfalt0.github.io
 - akinsec.com - IT Compliance Platform | https://akinsec.com
 - solarsystems.tech - selling Custom PCs | https://solarsytems.tech 
 
-### Artificial Intelligence (AI)
-- PEFT (Parameter-Efficient Fine-Tuning) open-source hugging face models
+### open source AI models
+- PEFT (Parameter-Efficient Fine-Tuning)
+- unsloth.ai
+- pytorch
+- QLoRA vs LoRA
+- LLaMA
+- Deepseek
 
 
 ## 2024 
