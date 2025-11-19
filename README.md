@@ -1,5 +1,7 @@
 ![1950cc0541ccad8953c1750b87187cab](https://github.com/user-attachments/assets/af9b781c-f6f6-4b18-a170-c4e1f5acb980)
 
+
+
 ## Obsidian + Quartz devblog
 https://dfalt0.github.io 
 
@@ -8,8 +10,6 @@ https://dfalt0.github.io
 - [x] <b>Systems Engineer</b> - Cloud, IT support, IaC | 1.5 years
 - [x] <b>Full-Stack Dev</b> - PHP Laravel / dual role - undergrad research assistant (vehicle GPS/autonomous driving) | 2.5 years
 
-
-# Always Learning
 ## 2025 
 
 ### business startups
