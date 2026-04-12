@@ -1,7 +1,7 @@
 ![1950cc0541ccad8953c1750b87187cab](https://github.com/user-attachments/assets/af9b781c-f6f6-4b18-a170-c4e1f5acb980)
 
 ## Portfolio
-https://
+- TODO
 
 ## Obsidian + Quartz devblog
 https://dfalt0.github.io 
@@ -27,10 +27,10 @@ https://dfalt0.github.io
 
 
 ## 2024 
-- understanding mobile security -> https://github.com/MobSF/Mobile-Security-Framework-MobSF
-- -> https://github.com/ashishb/osx-and-ios-security-awesome
-- (unfinished) casestudies -> https://github.com/dfalt0/malware1_casestudy
-  
+-  [understanding mobile security](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+-  [ashishb's osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)
+-  [(unfinished) casestudies](https://github.com/dfalt0/malware1_casestudy)
+
 #### iOS security
 - Learning C, C++, Rust, & Go via Advent Of Code - https://adventofcode.com/
 
