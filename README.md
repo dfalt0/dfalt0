@@ -4,7 +4,7 @@
 - TODO
 
 ## Obsidian + Quartz devblog
-https://dfalt0.github.io 
+[dfalt0](https://dfalt0.github.io)
 
 ### Experience:
 - [x] <b>Cybersec Consultant</b> - Freelance | 1+ years
