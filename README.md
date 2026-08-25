@@ -1,15 +1,20 @@
 ![1950cc0541ccad8953c1750b87187cab](https://github.com/user-attachments/assets/af9b781c-f6f6-4b18-a170-c4e1f5acb980)
 
-## Portfolio
-https://
+## Mata aeta na! | また会えたな。
+Software, cloud infrastructure, and cybersecurity engineer.
 
-## Obsidian + Quartz devblog
-https://dfalt0.github.io 
+I build software and infrastructure across the application, cloud, and
+security layers. Currently building [AkinSec](https://akinsec.com/)
+
 
 ### Experience:
-- [x] <b>Cybersec Consultant</b> - Freelance | 1+ years
-- [x] <b>Systems Engineer</b> - Cloud, IT support, IaC | 1.5 years
-- [x] <b>Full-Stack Dev</b> - PHP Laravel / dual role - undergrad research assistant (vehicle GPS/autonomous driving) | 2.5 years
+- [x] <b>Founder & Software Engineer</b> - AkinSec, project AskAkin
+- [x] <b>Independent Technology Work</b> - Freelance, 2023 - Present
+- [x] <b>Systems Engineer</b> - Cloud, IT support, IaC, 2022 - 2023
+- [x] <b>Research Assistant / Software Developer</b> - undergrad research assistant (vehicle GPS/autonomous driving) & PHP webdev, 2018 - 2021
+- [x] <b>IT admin</b> - uni police, 2017 - 2018
+
+
 
 ## 2025 
 
@@ -18,6 +23,7 @@ https://dfalt0.github.io
 - solarsystems.tech - selling Custom PCs | https://solarsytems.tech 
 
 ### open source AI models
+started learning about LLM fine tuning, hosting local AI, AI training data weights
 - PEFT (Parameter-Efficient Fine-Tuning)
 - unsloth.ai
 - pytorch
@@ -34,3 +40,8 @@ https://dfalt0.github.io
 #### iOS security
 - Learning C, C++, Rust, & Go via Advent Of Code - https://adventofcode.com/
 
+
+## Links
+
+- Portfolio: https://dfalt0.com
+- Blog / Notes: https://dfalt0.github.io
