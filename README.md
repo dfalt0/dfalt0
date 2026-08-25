@@ -6,6 +6,12 @@ Software, cloud infrastructure, and cybersecurity engineer.
 I build software and infrastructure across the application, cloud, and
 security layers. Currently building [AkinSec](https://akinsec.com/)
 
+## What I'm working on
+
+- **AkinSec** — AI-assisted cybersecurity platform combining LLMs, Wazuh, security tooling, and isolated execution.
+- **LLM Security** — Fine-tuning and evaluating open models for cybersecurity and adversarial inputs using PyTorch, QLoRA, and Unsloth.
+- **Security Research** — Application security, vulnerability research, malware analysis, and LLM security.
+- **Software & Infrastructure** — Full-stack applications, cloud infrastructure, automation, and security tooling.
 
 ### Experience:
 - [x] <b>Founder & Software Engineer</b> - AkinSec, project AskAkin
@@ -13,7 +19,6 @@ security layers. Currently building [AkinSec](https://akinsec.com/)
 - [x] <b>Systems Engineer</b> - Cloud, IT support, IaC, 2022 - 2023
 - [x] <b>Research Assistant / Software Developer</b> - undergrad research assistant (vehicle GPS/autonomous driving) & PHP webdev, 2018 - 2021
 - [x] <b>IT admin</b> - uni police, 2017 - 2018
-
 
 
 ## 2025 
